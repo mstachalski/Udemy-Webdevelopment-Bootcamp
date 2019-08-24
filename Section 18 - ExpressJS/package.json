@@ -1,0 +1,14 @@
+{
+  "name": "section18",
+  "version": "1.0.0",
+  "description": "Following Section 18 of the online mooc ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Max Stachalski",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
